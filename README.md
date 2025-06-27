@@ -37,7 +37,7 @@ A modern **Next.js** coffee shop website. Fast, clean, responsive. Firebase-back
 > 🎯 Features: Product catalog, user auth, minimal design
 
 <p align="center">
-  <img src="[[https://media.giphy.com/media/JWuBH9rCO2uZy/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Fcoffee-116%2F&psig=AOvVaw1pFksRWMHkZz2p9ZBP289g&ust=1751128950210000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD1k-yFko4DFQAAAAAdAAAAABAU)]([https://i.pinimg.com/originals/6b/17/60/6b17609b00e8842da890ad3a27d1ceb7.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Fcoffee-116%2F&psig=AOvVaw1pFksRWMHkZz2p9ZBP289g&ust=1751128950210000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD1k-yFko4DFQAAAAAdAAAAABAU))" width="300" />
+  <img src="[https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cm81ZmRsanoxdWx0d2Jzd3RqYWM4ZXhnZXJrMm5ubnl2bXd6YzJpMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H4xZR1h5iqbtTcGvNk/giphy.gif)" width="300" />
 </p>
 
 ---

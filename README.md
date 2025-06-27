@@ -37,7 +37,7 @@ A modern **Next.js** coffee shop website. Fast, clean, responsive. Firebase-back
 > 🎯 Features: Product catalog, user auth, minimal design
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JWuBH9rCO2uZy/giphy.gif" width="300" />
+  <img src="[https://media.giphy.com/media/JWuBH9rCO2uZy/giphy.gif](https://i.pinimg.com/originals/6b/17/60/6b17609b00e8842da890ad3a27d1ceb7.gif)" width="300" />
 </p>
 
 ---

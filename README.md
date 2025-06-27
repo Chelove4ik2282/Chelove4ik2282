@@ -9,19 +9,36 @@
 
 ### 🙋‍♂️ About Me
 
-- 🎓 CS student
-- 💡 I like making small tools, creative apps, and solving problems that make me go "oh, that’s clever"
+- 🎓 CS student with a love for clean code & creative UI
+- 💡 I enjoy building tools, smart apps, and math-based logic engines
 - 🧘 Hobbies: handball, anime, music
-- 📬 Feel free to connect:  
-  [Telegram](https://t.me/chelove4ik2282)
+- 📬 Let’s connect: [Telegram](https://t.me/chelove4ik2282)
 
 ---
 
 ### 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,c++,c#,js,react,nodejs,nextjs,express,git,github,vscode,vs,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,react,nextjs,nodejs,express,git,github,vscode,vs,figma&theme=light" />
 </p>
+
+---
+
+### 🧪 Featured Projects
+
+#### ☕ **Coffeewka**
+A slick **Next.js** website for selling coffee online. Built with modern design, fast page loads, and simple product management.
+
+> 🔗 [Live preview or repo](#)  
+> Tech: `Next.js`, `Tailwind`, `Stripe`, `SSR`, `Responsive UI`
+
+---
+
+#### 🧑‍💼 **Simple Company Manager**
+Web app for managing employees: add, remove, promote, assign tasks, and update roles easily.
+
+> 🔗 [Live demo or repo](#)  
+> Tech: `React`, `Node.js`, `Express`, `MongoDB`, `MUI`
 
 ---
 
@@ -35,6 +52,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chelove4ik2282&layout=compact&theme=tokyonight&langs_count=8" width="50%" />
 </p>
+
+---
+
+### 💬 Dev Quote
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
 ---
 
